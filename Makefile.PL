@@ -8,7 +8,7 @@ WriteMakefile(
     PREREQ_PM    => {'QBit::TimeLog' => 0},
     LIBS         => ['-lrt'],
     DEFINE       => '',
-    CC           => 'g++',
+    CC           => 'c++',
     LD           => '$(CC)',
     INC          => '-I.',
     CCFLAGS      => '',
