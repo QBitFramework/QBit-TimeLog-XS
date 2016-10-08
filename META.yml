@@ -17,4 +17,4 @@ requires:
   QBit::TimeLog: 0
   XSLoader: 0
   base: 0
-version: 0.006
+version: 0.007

@@ -1,10 +1,52 @@
 ==================================================
-Changes from 2015-05-18 00:00:00 +0000 to present.
+Changes from 2015-10-09 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.006 at 2016-05-17 23:16:07 +0000
+version 0.007 at 2016-10-08 20:10:45 +0000
 ------------------------------------------
+
+  Change: 6348e423f382f04b06b0a4bb0405c307fa2541b6
+  Author: Igor <igor-sverdlov@mail.ru>
+  Date : 2016-10-09 00:09:31 +0000
+
+    Merge pull request #2 from Madskill/use_c
+
+    Use c 
+
+  Change: b98ea9a69f3d55e203105985a4175295f9093837
+  Author: Igor Sverdlov <igor-sverdlov@mail.ru>
+  Date : 2016-10-08 23:06:23 +0000
+
+    g++ -> c++ 
+
+  Change: 32100c78586da77c8ef6f202e08c285d901c7b7a
+  Author: Igor Sverdlov <igor-sverdlov@mail.ru>
+  Date : 2016-10-08 23:05:17 +0000
+
+    Merge remote-tracking branch 'upstream/master'
+
+    Conflicts:
+
+    Changes
+
+    debian/changelog 
+
+  Change: 3cda1801b13eefa3aff222ddbc0491ebdb1ece39
+  Author: Igor Sverdlov <igor-sverdlov@mail.ru>
+  Date : 2016-05-18 02:01:10 +0000
+
+    Version 0.006 
+
+------------------------------------------
+version 0.006 at 2016-05-17 23:16:18 +0000
+------------------------------------------
+
+  Change: 8ac791ad39938d6ceb623e65c42dc2b2a2e882dc
+  Author: Igor Sverdlov <igor-sverdlov@mail.ru>
+  Date : 2016-05-18 02:16:18 +0000
+
+    Version 0.006 
 
   Change: 74d3328a6b03cf7de8c016dfc1f1899ee0715ea0
   Author: Igor <igor-sverdlov@mail.ru>
@@ -21,5 +63,5 @@ version 0.006 at 2016-05-17 23:16:07 +0000
     upload to cpan 
 
 ================================================
-Plus 5 releases after 2015-05-18 00:00:00 +0000.
+Plus 5 releases after 2015-10-09 00:00:00 +0000.
 ================================================
