@@ -1,3 +1,9 @@
+libqbit-timelog-xs-perl (0.008) saucy; urgency=low
+
+  * added Test::LeakTrace in TEST_REQUIRES
+
+ -- Igor Sverdlov <igor-sverdlov@mail.ru>  Sun, 09 Oct 2016 12:16:54 +0300
+
 libqbit-timelog-xs-perl (0.007) saucy; urgency=low
 
   * g++ -> c++
